@@ -14,16 +14,16 @@
 
 ### Page 3: Child Health & Play Items
 *Tracks age demographics, disability status, milestone delays, and play items.*
-![Child Health](Child%20Health%20%26%20Play%20Items%20DAashboard.png)
+![Child Health](Child%20Health%20Dashboard.png)
 
 ### Drill-Down Capability
 *Demonstrates the working location hierarchy (Sub County down to CHP level).*
-![Drill Down](Drill%20Down%20On%20Overview%20DAashboard.png)
+![Drill Down](drilldown.png)
 
 ### Data Modeling
 *The relational model connecting Households, Caregivers, and Children.*
-![Data Modeling](Data%20Modeling.png)
+![Data Modeling](datamodeling.png)
 
 ### DAX Implementation
 *Example of the DAX logic used to parse multi-select questionnaire data.*
-![DAX Formula](DAX-Child%20SAfety%20%26%20Security.png)
+![DAX Formula](dax.png)
